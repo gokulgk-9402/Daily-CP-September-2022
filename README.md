@@ -12,3 +12,6 @@ My solutions for CP problems that I try/solve during the month of August 2022.
 #### September 3, 2022
 * [Numbers with Same consecutive differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/)
 * [Smallest K-Length subsequence with occurrences of a letter](https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter/)
+* [Minimum Time to fulfil all orders](https://practice.geeksforgeeks.org/problems/minimum-time-to-fulfil-all-orders/1)
+* [Basic Calculator](https://leetcode.com/problems/basic-calculator/)
+* [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)
