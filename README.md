@@ -15,3 +15,10 @@ My solutions for CP problems that I try/solve during the month of August 2022.
 * [Minimum Time to fulfil all orders](https://practice.geeksforgeeks.org/problems/minimum-time-to-fulfil-all-orders/1)
 * [Basic Calculator](https://leetcode.com/problems/basic-calculator/)
 * [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)
+
+#### September 4, 2022
+* [Vertical order traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)
+* [Print the pattern](https://practice.geeksforgeeks.org/problems/print-the-pattern1025/1)
+* [Text Justification](https://leetcode.com/problems/text-justification/)
+* [Scramble String](https://leetcode.com/problems/scramble-string/)
+* [Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/)
