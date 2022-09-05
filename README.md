@@ -22,3 +22,10 @@ My solutions for CP problems that I try/solve during the month of August 2022.
 * [Text Justification](https://leetcode.com/problems/text-justification/)
 * [Scramble String](https://leetcode.com/problems/scramble-string/)
 * [Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/)
+
+#### September 5, 2022
+* [Smallest sum contiguous subarray](https://practice.geeksforgeeks.org/problems/smallest-sum-contiguous-subarray/1)
+* [N-ary tree level order traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)
+* [Longest Valid Parenthesews](https://leetcode.com/problems/longest-valid-parentheses/)
+* [Edit Distance](https://leetcode.com/problems/edit-distance/)
+* [Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction/)
