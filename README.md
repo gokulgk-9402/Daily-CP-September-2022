@@ -29,3 +29,10 @@ My solutions for CP problems that I try/solve during the month of August 2022.
 * [Longest Valid Parenthesews](https://leetcode.com/problems/longest-valid-parentheses/)
 * [Edit Distance](https://leetcode.com/problems/edit-distance/)
 * [Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction/)
+
+#### September 6, 2022
+* [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)
+* [Minimum Sum of Absolute Difference of Pairs](https://practice.geeksforgeeks.org/problems/minimum-sum-of-absolute-differences-of-pairs/1)
+* [Word Ladder](https://leetcode.com/problems/word-ladder/)
+* [Find Minimum In Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)
+* [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)
