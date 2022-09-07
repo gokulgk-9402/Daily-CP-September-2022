@@ -36,3 +36,10 @@ My solutions for CP problems that I try/solve during the month of August 2022.
 * [Word Ladder](https://leetcode.com/problems/word-ladder/)
 * [Find Minimum In Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)
 * [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)
+
+#### September 7, 2022
+* [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)
+* [Stack Permutations](https://practice.geeksforgeeks.org/problems/stack-permutations/1)
+* [Check if there is a valid parentheses string path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/)
+* [Sort Integers By the Power Value](https://leetcode.com/problems/sort-integers-by-the-power-value/)
+* [Sum of Subsequence Widths](https://leetcode.com/problems/sum-of-subsequence-widths/)
