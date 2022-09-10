@@ -50,3 +50,12 @@ My solutions for CP problems that I try/solve during the month of August 2022.
 * [Word Search II](https://leetcode.com/problems/word-search-ii/)
 * [Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/)
 * [Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/)
+
+#### September 9, 2022
+* [The number of weak characters in the game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)
+* [Smallest Number with sum of digits as N and divisible by 10^N0](https://practice.geeksforgeeks.org/problems/smallest-number-with-sum-of-digits-as-n-and-divisible-by-10n4032/1)
+* [Stamping the Sequence](https://leetcode.com/problems/stamping-the-sequence/)
+
+#### September 10, 2022
+* [Ball Coloring](https://practice.geeksforgeeks.org/problems/ball-coloring3450/1)
+* [Best time to buy and sell stocks IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)
