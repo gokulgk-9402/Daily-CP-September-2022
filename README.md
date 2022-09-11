@@ -59,3 +59,7 @@ My solutions for CP problems that I try/solve during the month of August 2022.
 #### September 10, 2022
 * [Ball Coloring](https://practice.geeksforgeeks.org/problems/ball-coloring3450/1)
 * [Best time to buy and sell stocks IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)
+
+#### September 11, 2022
+* [Maximum Performance of a team](https://leetcode.com/problems/maximum-performance-of-a-team/)
+* [Count Occurrences of a given word in a 2-d array](https://practice.geeksforgeeks.org/problems/count-occurences-of-a-given-word-in-a-2-d-array/1)
