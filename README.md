@@ -63,3 +63,7 @@ My solutions for CP problems that I try/solve during the month of August 2022.
 #### September 11, 2022
 * [Maximum Performance of a team](https://leetcode.com/problems/maximum-performance-of-a-team/)
 * [Count Occurrences of a given word in a 2-d array](https://practice.geeksforgeeks.org/problems/count-occurences-of-a-given-word-in-a-2-d-array/1)
+
+#### September 12, 2022
+* [Minimum Exchange](https://practice.geeksforgeeks.org/problems/distributing-question-papers2513/1)
+* [Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)
