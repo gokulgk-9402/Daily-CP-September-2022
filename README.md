@@ -67,3 +67,8 @@ My solutions for CP problems that I try/solve during the month of August 2022.
 #### September 12, 2022
 * [Minimum Exchange](https://practice.geeksforgeeks.org/problems/distributing-question-papers2513/1)
 * [Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)
+
+#### September 13, 2022
+* [BST to max-heap](https://practice.geeksforgeeks.org/problems/bst-to-max-heap/1)
+* [UTF 8 Validation](https://leetcode.com/problems/utf-8-validation/)
+* [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)
