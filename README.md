@@ -72,3 +72,10 @@ My solutions for CP problems that I try/solve during the month of August 2022.
 * [BST to max-heap](https://practice.geeksforgeeks.org/problems/bst-to-max-heap/1)
 * [UTF 8 Validation](https://leetcode.com/problems/utf-8-validation/)
 * [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)
+
+#### September 14, 2022
+* [Power of 2 and Subsequences](https://practice.geeksforgeeks.org/problems/power-of-2-and-subsequences0759/1)
+* [Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)
+* [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)
+* [Design a movie rental system](https://leetcode.com/problems/design-movie-rental-system/)
+* [Maximum Non Negative Product in a matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/)
