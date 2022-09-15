@@ -79,3 +79,13 @@ My solutions for CP problems that I try/solve during the month of August 2022.
 * [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)
 * [Design a movie rental system](https://leetcode.com/problems/design-movie-rental-system/)
 * [Maximum Non Negative Product in a matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/)
+
+#### September 15, 2022
+* [Find original array from doubled array](https://leetcode.com/problems/find-original-array-from-doubled-array/)
+* [Smallest Subset with Greater Sum](https://practice.geeksforgeeks.org/problems/smallest-subset-with-greater-sum/1)
+* [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)
+* [Maximum total beauty of gardens](https://leetcode.com/problems/maximum-total-beauty-of-the-gardens/)
+* [House Robber III](https://leetcode.com/problems/house-robber-iii/)
+
+#### September 16, 2022
+* []()
