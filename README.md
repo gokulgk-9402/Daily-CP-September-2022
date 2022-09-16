@@ -88,4 +88,8 @@ My solutions for CP problems that I try/solve during the month of August 2022.
 * [House Robber III](https://leetcode.com/problems/house-robber-iii/)
 
 #### September 16, 2022
-* []()
+* [Maximum Scre from performing Multiplication operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/)
+* [Number of ways to arrive at Destination](https://practice.geeksforgeeks.org/problems/number-of-ways-to-arrive-at-destination/1)
+* [Burst Balloons](https://leetcode.com/problems/burst-balloons/)
+* [Minimum cost to merge stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/)
+* [Sort Integers by number of 1 bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)
