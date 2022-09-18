@@ -93,3 +93,14 @@ My solutions for CP problems that I try/solve during the month of August 2022.
 * [Burst Balloons](https://leetcode.com/problems/burst-balloons/)
 * [Minimum cost to merge stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/)
 * [Sort Integers by number of 1 bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)
+
+#### September 17, 2022
+* [Minimum Swaps](https://practice.geeksforgeeks.org/problems/minimum-swaps-1649134975/1)
+* [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)
+
+#### September 18, 2022
+* [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+* [Composite and Prime](https://practice.geeksforgeeks.org/problems/composite-and-prime0359/1)
+
+#### September 19, 2022
+* []()
