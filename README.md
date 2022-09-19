@@ -103,4 +103,8 @@ My solutions for CP problems that I try/solve during the month of August 2022.
 * [Composite and Prime](https://practice.geeksforgeeks.org/problems/composite-and-prime0359/1)
 
 #### September 19, 2022
-* []()
+* [Smallest Number on Left](https://practice.geeksforgeeks.org/problems/smallest-number-on-left3403/1)
+* [Find Duplicate File in system](https://leetcode.com/problems/find-duplicate-file-in-system/)
+* [Count Array Pairs Divisible by K](https://leetcode.com/problems/count-array-pairs-divisible-by-k/)
+* [Number of Distinct Roll Sequences](https://leetcode.com/problems/number-of-distinct-roll-sequences/)
+* [Find subsequence of length K with the largest sum](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/)
