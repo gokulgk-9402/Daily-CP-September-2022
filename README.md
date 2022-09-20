@@ -108,3 +108,12 @@ My solutions for CP problems that I try/solve during the month of August 2022.
 * [Count Array Pairs Divisible by K](https://leetcode.com/problems/count-array-pairs-divisible-by-k/)
 * [Number of Distinct Roll Sequences](https://leetcode.com/problems/number-of-distinct-roll-sequences/)
 * [Find subsequence of length K with the largest sum](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/)
+
+
+#### September 20, 2022
+* [Maximum length of repeated subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)
+* [Maximum number of 2x2 Squares](https://practice.geeksforgeeks.org/problems/maximum-number-of-22-squares/1)
+* [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)
+
+#### September 21, 2022
+* [Stream of Characters](https://leetcode.com/problems/stream-of-characters/)
