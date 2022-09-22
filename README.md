@@ -115,5 +115,15 @@ My solutions for CP problems that I try/solve during the month of August 2022.
 * [Maximum number of 2x2 Squares](https://practice.geeksforgeeks.org/problems/maximum-number-of-22-squares/1)
 * [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)
 
-#### September 21, 2022
-* [Stream of Characters](https://leetcode.com/problems/stream-of-characters/)
+#### September 21
+* [Sum of even numbers after queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)
+* [License Key Formatting](https://practice.geeksforgeeks.org/problems/license-key-formatting/1)
+* [Range Module](https://leetcode.com/problems/range-module/)
+* [Majority Element II](https://leetcode.com/problems/majority-element-ii/)
+
+#### September 22, 2022
+* [IPL 2021 - Match Day 2](https://practice.geeksforgeeks.org/problems/deee0e8cf9910e7219f663c18d6d640ea0b87f87/1)
+* [Reverse Words in a string III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
+* [Reachable Nodes in subdivided graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/)
+* [Sequentially Ordinal Rank Teacher](https://leetcode.com/problems/sequentially-ordinal-rank-tracker/)
+* [Soup Servings](https://leetcode.com/problems/soup-servings/)

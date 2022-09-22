@@ -1,6 +1,5 @@
 #User function Template for python3
 
-
 class Solution:
     def smallestSumSubarray(self, A, N):
         #Your code here
