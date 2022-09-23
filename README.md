@@ -127,3 +127,7 @@ My solutions for CP problems that I try/solve during the month of August 2022.
 * [Reachable Nodes in subdivided graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/)
 * [Sequentially Ordinal Rank Teacher](https://leetcode.com/problems/sequentially-ordinal-rank-tracker/)
 * [Soup Servings](https://leetcode.com/problems/soup-servings/)
+
+#### September 23, 2022
+* [Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/)
+* [Geek and Number string](https://practice.geeksforgeeks.org/problems/904237fa926d79126d42c437802b04287ea9d1c8/1)
