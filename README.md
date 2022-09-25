@@ -137,4 +137,5 @@ My solutions for CP problems that I try/solve during the month of August 2022.
 * [The Bit Game](https://practice.geeksforgeeks.org/problems/the-bit-game2313/1)
 
 #### September 25, 2022
-* []()
+* [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)
+* [Queries on a matrix](https://practice.geeksforgeeks.org/problems/queries-on-a-matrix0443/1)
