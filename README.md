@@ -139,3 +139,13 @@ My solutions for CP problems that I try/solve during the month of August 2022.
 #### September 25, 2022
 * [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)
 * [Queries on a matrix](https://practice.geeksforgeeks.org/problems/queries-on-a-matrix0443/1)
+
+#### Septemeber 26, 2022
+* [Tom and Jerry](https://practice.geeksforgeeks.org/problems/tom-and-jerry1325/1)
+* [Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/)
+* [Number of valid move combintions on chessboard](https://leetcode.com/problems/number-of-valid-move-combinations-on-chessboard/)
+* [Find Three consecutive integers that sum to a given number](https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number/)
+* [Max chunks to make sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/)
+
+#### September 27, 2022
+* [Number of ways to reorder array to get same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/)
