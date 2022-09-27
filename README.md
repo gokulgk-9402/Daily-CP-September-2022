@@ -149,3 +149,10 @@ My solutions for CP problems that I try/solve during the month of August 2022.
 
 #### September 27, 2022
 * [Number of ways to reorder array to get same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/)
+* [Minimum cost of ropes](https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1)
+* [Push Dominoes](https://leetcode.com/problems/push-dominoes/)
+* [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)
+* [Minimum Money Required Before Transactions](https://leetcode.com/problems/minimum-money-required-before-transactions/)
+
+#### September 28, 2022
+* []()
