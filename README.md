@@ -163,3 +163,9 @@ My solutions for CP problems that I try/solve during the month of August 2022.
 #### September 29, 2022
 * [Find K Closest elements](https://leetcode.com/problems/find-k-closest-elements/)
 * [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/)
+* [Student Attendance Record](https://leetcode.com/problems/student-attendance-record-i/)
+* [Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/)
+* [Knight Dialer](https://leetcode.com/problems/knight-dialer/)
+
+#### September 30, 2022
+* []()
