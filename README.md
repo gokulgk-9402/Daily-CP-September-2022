@@ -155,4 +155,11 @@ My solutions for CP problems that I try/solve during the month of August 2022.
 * [Minimum Money Required Before Transactions](https://leetcode.com/problems/minimum-money-required-before-transactions/)
 
 #### September 28, 2022
-* []()
+* [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)
+* [Fitting the Array](https://practice.geeksforgeeks.org/problems/fitting-the-array1514/1)
+* [Chalkboard XOR Game](https://leetcode.com/problems/chalkboard-xor-game/)
+* [Print Words Vertically](https://leetcode.com/problems/print-words-vertically/)
+
+#### September 29, 2022
+* [Find K Closest elements](https://leetcode.com/problems/find-k-closest-elements/)
+* [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/)
