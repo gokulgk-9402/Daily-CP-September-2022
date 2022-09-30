@@ -168,4 +168,6 @@ My solutions for CP problems that I try/solve during the month of August 2022.
 * [Knight Dialer](https://leetcode.com/problems/knight-dialer/)
 
 #### September 30, 2022
-* []()
+* [Find the Safe Position](https://practice.geeksforgeeks.org/problems/game-of-death-in-a-circle1840/1)
+* [Design Browser History](https://leetcode.com/problems/design-browser-history/description/)
+* [Stone Game IV](https://leetcode.com/problems/stone-game-iv/description/)
