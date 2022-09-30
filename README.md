@@ -1,4 +1,4 @@
-# Daily CP, August 2022
+# Daily CP, September 2022
 
 My solutions for CP problems that I try/solve during the month of September 2022.
 
